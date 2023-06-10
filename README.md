@@ -106,7 +106,7 @@ Entre os próximos passos, está o aprofundamento do seu conhecimento sobre o ne
 
 Uma possibilidade interessante é buscar novas características relevantes para o conjunto de dados, o que pode enriquecer o modelo e melhorar sua capacidade de previsão. A incorporação de variáveis adicionais, como informações demográficas dos clientes, histórico de sinistros, dados econômicos e outros fatores relevantes para o setor de seguros automotivos, pode ser uma abordagem promissora.
 
-Além disso, existem outros projetos relacionados que podem ser desenvolvidos para agregar valor à empresa. Por exemplo, a avaliação de risco do cliente é uma área importante, pois permite identificar os perfis de risco dos clientes e tomar medidas preventivas ou personalizar as ofertas de seguros com base nesses dados. A análise da elasticidade do preço é outra área interessante, pois ajuda a compreender como a demanda por seguros automotivos é
+Além disso, existem outros projetos relacionados que podem ser desenvolvidos para agregar valor à empresa. Por exemplo, a avaliação de risco do cliente é uma área importante, pois permite identificar os perfis de risco dos clientes e tomar medidas preventivas ou personalizar as ofertas de seguros com base nesses dados. A análise da elasticidade do preço é outra área interessante, pois ajuda a compreender como a demanda por seguros automotivos é afetada por variações nos preços e pode auxiliar na definição de estratégias de precificação mais eficientes.
 
 ### Contatos
 <p> Email: gtv.michelsen@gmail.com
